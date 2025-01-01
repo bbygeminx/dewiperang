@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bbygeminx.github.io/dewiperang/sitemap.xml
